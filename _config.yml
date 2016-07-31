@@ -26,3 +26,7 @@ github_username:  nicholaspufal
 markdown: kramdown
 theme: minima
 permalink: pretty
+
+# Disqus
+disqus:
+  shortname: nicholaspufalblog

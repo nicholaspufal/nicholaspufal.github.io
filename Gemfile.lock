@@ -1,5 +1,6 @@
-PATH
-  remote: ../minima
+GIT
+  remote: git@github.com:nicholaspufal/minima.git
+  revision: 3b81112905797971bcaa07fc24e325ed7a2f53f3
   specs:
     minima (1.0.1)
 

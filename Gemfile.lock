@@ -1,6 +1,6 @@
 GIT
-  remote: git@github.com:nicholaspufal/minima.git
-  revision: 3b81112905797971bcaa07fc24e325ed7a2f53f3
+  remote: https://github.com/jekyll/minima.git
+  revision: 5beb3d3d5bffdda4bbbd405d656912c82498dd6b
   specs:
     minima (1.0.1)
 
@@ -24,7 +24,7 @@ GEM
       sass (~> 3.4)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
-    kramdown (1.11.1)
+    kramdown (1.12.0)
     liquid (3.0.6)
     listen (3.0.8)
       rb-fsevent (~> 0.9, >= 0.9.4)

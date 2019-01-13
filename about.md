@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey there! My name is Nicholas Pufal and I'm a full-stack / backend developer who really enjoys to work with Javascript, Ruby and automation/build tools.
+Hey there! My name is Nicholas Pufal and I'm a backend software engineer.
 
 I love to build cool things and to build them with quality in mind.
 

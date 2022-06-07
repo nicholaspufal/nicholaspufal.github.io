@@ -3,6 +3,7 @@ layout: post
 title: "Lojas brasileiras: à vista e a prazo é o mesmo valor (PT-BR)"
 date: 2013-02-12 10:23
 comments: true
+published: false
 ---
 
 Pouquíssimas são as lojas no Brasil que oferecem transparência sobre qual o juro praticado para que sejam oferecidas as opções de parcelamento (financiamento) de um produto. Infelizmente, ainda existem muitos brasileiros que acreditam quando um vendedor diz que "à vista e em 12x é o mesmo valor". Balela. Impossível. Isso significa nada mais, nada menos que **juro embutido** - pura má fé da loja. Mais triste ainda é ver como muitos escutam isso, e simplesmente não dão bola, o que faz com que mais e mais lojas façam uso da mesma artimanha.

@@ -3,6 +3,7 @@ layout: post
 title: "Plan to move from Dropbox to Google Drive? Better think twice"
 date: 2014-04-19 22:57
 comments: true
+published: false
 ---
 
 After the huge price drop announced by Google I decided to give it a try. I have been a Dropbox user for a long time, but its prices versus my usage aren't really compatible.

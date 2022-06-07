@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hey there! My name is Nicholas Pufal and I'm a backend software engineer.
+Hey there! My name is Nicholas Pufal and I'm a Staff Software Engineer currently working @
+[Doximity](https://www.doximity.com/about/company).
 
-I love to build cool things and to build them with quality in mind.
+I'm a seasoned Ruby developer, proficient in Javascript, who loves to build software with quality in mind.
 
-I'm very passionate about good development practices and ways to improve an agile team communication/delivered quality - a broad subject which includes ideas such as Behavior Driven Development (BDD) and Specification by Example.
+I have a strong background in agile methodologies, distributed systems and I'm always keen on being part of pragmatic teams that lean on automated processes.
